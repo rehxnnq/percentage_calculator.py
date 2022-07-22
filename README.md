@@ -9,6 +9,6 @@ Hindi<br>
 
 To run this file follow these commands <br>
 
-Step one <code> git clone https://github.com/rehxnnq/percentage_calculator.py.git </code><br>
-Step Two <code> pyhton3 percentage_calculator.py<br>
-
+Step One <code> git clone https://github.com/rehxnnq/percentage_calculator.py.git </code><br>
+Step Two <code> cd percentage_calculator </code> <br>
+Step Three <code> python3 percentage.py<br>
